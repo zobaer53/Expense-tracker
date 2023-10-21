@@ -42,5 +42,3 @@ https://apps.apple.com/vn/app/mmas-money-tracker/id1582638369
 </table>
 
 
-## LICENSE
-MMAS: Money Tracker is [MIT-licensed](https://github.com/floranguyen0/mmas-money-tracker/blob/main/LICENSE).
