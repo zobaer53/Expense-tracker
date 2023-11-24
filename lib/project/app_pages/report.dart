@@ -432,8 +432,8 @@ class _ReportBodyState extends State<ReportBody> {
                                                   key: ObjectKey(
                                                       selectedTransactions[
                                                           int]),
-                                                  performsFirstActionWithFullSwipe:
-                                                      true,
+                                                  //performsFirstActionWithFullSwipe:
+                                                      //true,
                                                   trailingActions: <
                                                       SwipeAction>[
                                                     SwipeAction(
